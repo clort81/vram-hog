@@ -1,5 +1,5 @@
 ### VRAM-Hog
-
+```
         _
         |\_,,____
         ( o__o \/
@@ -9,6 +9,7 @@
 ,===,=| |-,,,,-| |==,==
 |d  |  WW   |  WW   |
 |s  |   |   |   |   |
+```
 
 temporarily reserve some vram before launching a greedy vram program.
 

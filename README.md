@@ -3,8 +3,8 @@
         _
         |\_,,____
         ( o__o \/
-        /(..)  \
-       (_ )--( _)
+        /(..)  \   - "I'll prevent that MoE llama-server from
+       (_ )--( _)     crashing when it tries to reserve 2 much!"
        / ""--"" \
 ,===,=| |-,,,,-| |==,==
 |d  |  WW   |  WW   |

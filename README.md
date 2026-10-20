@@ -16,4 +16,5 @@ temporarily reserve some vram before launching a greedy vram program.
 # Usage
 
 vram-hog GiB Cuda_Device [Seconds]
+
 e.g.: vram_hog 0.47 1 45&

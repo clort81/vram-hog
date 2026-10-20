@@ -11,7 +11,7 @@
 |s  |   |   |   |   |
 ```
 
-temporarily reserve some vram before launching a greedy vram program.
+# CUDA/LINUX: temporarily reserve some vram before launching a greedy vram program.
 
 # Usage
 

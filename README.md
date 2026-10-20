@@ -17,4 +17,8 @@
 
 vram-hog GiB Cuda_Device [Seconds]
 
-e.g.: vram_hog 0.47 1 45&
+e.g.
+
+vram_hog 0.47 1 45&
+
+MIT License: Copyright (c) 2026 Clort81
